@@ -1,0 +1,5 @@
+dataset_path: "/home/amitasp/catkin_ws/src/visual_odometry/data"
+sequence: "00"
+output: output.csv
+max_frames: 20 
+match_threshold: 0.75
